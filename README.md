@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Lucandi
-- 👀 I’m interested in continuos learning
+- 👀 I’m interested in continuous learning
 - 🌱 I’m currently learning Python, JS , SQL , HTML and CSS.
 - 💞️ I’m looking to collaborate on as many projects as I can.
 - 📫 How to reach me ... lucandfc@gmail.com
